@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.jpg",
         "backgroundColor": "#000"
-      }
+      },
+      "package": "com.piyush_niranjan.calc"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b392084d-d5ff-483b-a5bd-91c4e6a30504"
+      }
     }
   }
 }
